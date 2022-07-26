@@ -83,7 +83,7 @@ Entre más el DIGG está "por fuera de su perímetro", lo que significa que su p
 
 Al igual que el APML, con DIGG, todos los poseedores (incluyendo los tokens de los pools de liquidez) son afectados por los reajustes, que sea positivo a negativo. Sin embargo, con el DIGG, al igual que con los tokens de señoreaje, existe **un mecanismo para abstraer los reajustes con el objetivo de permitir una mejor composabilidad dentro de DeFI: es bDIGG**, lo discutiremos luego.
 
-Los reajustes se hace a una hora fija, para DIGG es a las 15h EST, a las 21H para mis queridos lectores franceses.
+Los reajustes se hacen a una hora fija, para DIGG es a las 15h EST, a las 21H para mis queridos lectores franceses.
 
 {{< notice tip >}}
 Los tokens de reajustes explotan mecanismos similares a los de los stablecoins algorítmicos / tokens de señoreaje, así que no dude en leer mi **[precedente tiquete sobre el tema]({{< relref path="/content/posts/2021/seigniorage-basis-vs-esd.fr.md" lang="fr">}})** para más información.
